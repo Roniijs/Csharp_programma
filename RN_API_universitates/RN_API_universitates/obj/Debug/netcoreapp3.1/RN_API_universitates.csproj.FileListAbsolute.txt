@@ -1,0 +1,13 @@
+C:\Users\rn2828\source\repos\RN_API_universitates\RN_API_universitates\bin\Debug\netcoreapp3.1\RN_API_universitates.exe
+C:\Users\rn2828\source\repos\RN_API_universitates\RN_API_universitates\bin\Debug\netcoreapp3.1\RN_API_universitates.deps.json
+C:\Users\rn2828\source\repos\RN_API_universitates\RN_API_universitates\bin\Debug\netcoreapp3.1\RN_API_universitates.runtimeconfig.json
+C:\Users\rn2828\source\repos\RN_API_universitates\RN_API_universitates\bin\Debug\netcoreapp3.1\RN_API_universitates.runtimeconfig.dev.json
+C:\Users\rn2828\source\repos\RN_API_universitates\RN_API_universitates\bin\Debug\netcoreapp3.1\RN_API_universitates.dll
+C:\Users\rn2828\source\repos\RN_API_universitates\RN_API_universitates\bin\Debug\netcoreapp3.1\RN_API_universitates.pdb
+C:\Users\rn2828\source\repos\RN_API_universitates\RN_API_universitates\obj\Debug\netcoreapp3.1\RN_API_universitates.csprojAssemblyReference.cache
+C:\Users\rn2828\source\repos\RN_API_universitates\RN_API_universitates\obj\Debug\netcoreapp3.1\RN_API_universitates.AssemblyInfoInputs.cache
+C:\Users\rn2828\source\repos\RN_API_universitates\RN_API_universitates\obj\Debug\netcoreapp3.1\RN_API_universitates.AssemblyInfo.cs
+C:\Users\rn2828\source\repos\RN_API_universitates\RN_API_universitates\obj\Debug\netcoreapp3.1\RN_API_universitates.csproj.CoreCompileInputs.cache
+C:\Users\rn2828\source\repos\RN_API_universitates\RN_API_universitates\obj\Debug\netcoreapp3.1\RN_API_universitates.dll
+C:\Users\rn2828\source\repos\RN_API_universitates\RN_API_universitates\obj\Debug\netcoreapp3.1\RN_API_universitates.pdb
+C:\Users\rn2828\source\repos\RN_API_universitates\RN_API_universitates\obj\Debug\netcoreapp3.1\RN_API_universitates.genruntimeconfig.cache
